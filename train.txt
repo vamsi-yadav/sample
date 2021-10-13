@@ -1,1 +1,2 @@
 Hello Git
+Here's the sample text
